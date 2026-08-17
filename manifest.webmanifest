@@ -1,0 +1,16 @@
+{
+  "name": "Owl Habit",
+  "short_name": "Owl Habit",
+  "description": "Habit tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#162a3a",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {"src":"icon.png","sizes":"1254x1254","type":"image/png","purpose":"any maskable"}
+  ]
+}
